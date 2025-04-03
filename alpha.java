@@ -12,6 +12,8 @@ class alpha
  char t;
  char ch[]=s1 to charArray[];
  for(i=0;i<n;i++)
+
+  
  {
   for(j=0;j<n;j++)
   {
